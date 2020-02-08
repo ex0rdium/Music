@@ -342,6 +342,7 @@ Lost At Sea
 Lost Number																											
 A Lot Like Birds																											
 Lower Definition
+Madwave
 Manuel Le Saux
 Markus Schulz
 MatricK
@@ -373,7 +374,8 @@ Miss May I
 Modest Mouse																											
 Monsters Scare You!																											
 More Than Life																											
-Motionless In White																											
+Motionless In White	
+Motorcycle
 Mrs. Bundy																											
 Muffin & Cupcake																											
 Muse																											
@@ -470,12 +472,15 @@ Renaissance Kids
 ReRu																											
 Rings of Saturn																											
 Rise On Everest																											
-The Ritual Aura																											
-Rolo Tomassi																											
+The Ritual Aura	
+Roger Sha
+Rolo Tomassi	
+
 Rooks																											
 The Room Colored Charlatan																											
 STRFKR																											
-Rumours																											
+Rumours		
+Rydex
 Safemode																											
 Saosin																											
 Sarah Where Is My Tea																											
@@ -530,7 +535,8 @@ Subsonic Fallout
 Subverses
 Super8 & Tab
 Steve Allen
-Suicide Silence																											
+Suicide Silence	
+Svenson & Gielen
 Sworn In																											
 SycAmour																											
 Sylosis																											
