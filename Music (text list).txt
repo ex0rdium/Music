@@ -26,7 +26,7 @@ The Algorithm
 Alice in Chains																											
 Aliens Ate My Setlist																											
 All Shall Perish
-Aly & Fila
+
 Alteras																											
 Amarna Reign																											
 American Me																											
@@ -82,7 +82,7 @@ Being As an Ocean
 Berried Alive	
 Beneath The Massacre
 Between The Buried And Me																											
-Big Gigantic																											
+																											
 Billy Idol																											
 Bilmuri																											
 Black Diamonds																											
@@ -134,7 +134,7 @@ Colossus
 Confide																											
 Corvid Canine																											
 Court of Owls	
-Cosmic Gate
+
 Creations																											
 The Crimson Armada																											
 The Crossed																											
@@ -221,7 +221,7 @@ Famous Last Words
 Fear Before																											
 Feed The Bears	
 Ferry Corsten
-Ferry Tale & Dan Stone
+
 Fit For An Autopsy																											
 The Flaming Lips																											
 Footage Of A Yeti																											
@@ -344,7 +344,7 @@ A Lot Like Birds
 Lower Definition
 Madwave
 Manuel Le Saux
-Markus Schulz
+
 MatricK
 M Pravda
 M.I.A.																											
